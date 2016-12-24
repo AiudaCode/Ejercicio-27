@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1475983048 source:c:\users\omarm\dropbox\codeblocks proyects\ejercicio27\src\calcular.cpp
+	"Calcular.h"
+
+1475982906 c:\users\omarm\dropbox\codeblocks proyects\ejercicio27\include\calcular.h
+
+1475983325 source:c:\users\omarm\dropbox\codeblocks proyects\ejercicio27\main.cpp
+	<iostream>
+	"Calcular.h"
+
